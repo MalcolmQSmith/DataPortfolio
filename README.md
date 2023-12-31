@@ -5,6 +5,9 @@ My name is Malcolm Smith and welcome to my portfolio! I am new to the data scien
 
 # Index
 Below are the projects in my portfolio with links to the repository:
-1. [Vending Machine Sales Project using Python (API, Pandas, EDA, Data Cleaning, Visualization)](https://github.com/MalcolmQSmith/VendingMachineSales)
-2. [Employee Attrition Project using SQL and PowerBI (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](https://github.com/MalcolmQSmith/EmployeeAttrition)
-3. [Disney Financial Analysis Project using Python and Excel (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](https://github.com/MalcolmQSmith/DisneyFinancialAnalysis)
+1. Python Projects:
+   [Vending Machine Sales: EDA, Data Cleaning, and Data Visulaization](https://github.com/MalcolmQSmith/VendingMachineSales)
+2. SQL Projects:
+   [Employee Attrition:(Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](https://github.com/MalcolmQSmith/EmployeeAttrition)
+3. Excel Projects:
+   [Disney Financial Analysis Project using Python and Excel (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](https://github.com/MalcolmQSmith/DisneyFinancialAnalysis)
