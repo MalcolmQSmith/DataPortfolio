@@ -11,3 +11,5 @@ Below are the projects in my portfolio with links to the repository:
    * [Employee Attrition: (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](https://github.com/MalcolmQSmith/EmployeeAttrition) (Beginner Project)
 3. Excel Projects:
    * [Disney Financial Analysis Project using Python and Excel: (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](https://github.com/MalcolmQSmith/DisneyFinancialAnalysis) (Intermediate Project)
+4. Visualizztion Projects:
+   * 
