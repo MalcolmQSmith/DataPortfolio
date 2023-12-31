@@ -12,4 +12,4 @@ Below are the projects in my portfolio with links to the repository:
 3. Excel Projects:
    * [Disney Financial Analysis Project using Python and Excel: (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](https://github.com/MalcolmQSmith/DisneyFinancialAnalysis) (Intermediate Project)
 4. Visualizztion Projects:
-   * 
+  * 
