@@ -6,7 +6,7 @@ My name is Malcolm Smith and welcome to my portfolio! I am new to the data scien
 # Index
 Below are the projects in my portfolio with links to the repository:
 1. __Python Projects__:
-   * [Vending Machine Sales: EDA, Data Cleaning, and Data Visulaization](https://github.com/MalcolmQSmith/VendingMachineSales) (Beginner Project)
+   * [Vending Machine Sales: EDA, Data Cleaning, and Data Visulaization](PythonProjects/VendingMachineSales) (Beginner Project)
 
 2. __SQL Projects__:
    * [Employee Attrition: (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](https://github.com/MalcolmQSmith/EmployeeAttrition) (Beginner Project)
