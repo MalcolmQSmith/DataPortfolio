@@ -1,10 +1,10 @@
-# DisneyFinancialAnalysis
+# Disney Financial Analysis
 
 ## Introduction 
 With recent reports of Disney having poor financials, as well as layoffs of high profile employees, I wanted to take a deeper look into the finances of the company of the last four years to see what could be the problem and how to fix it.
 
 ## Installation
-To start, you would need to access the Financial Modeling Prep (FMP) by obtaining an API. The API is featured within the Python file. To access the various financial statements, you would need to import pandas and requests to be able to pull the balance sheet, income statement, stock data, and cash flow statement.
+To start, you would need to access the Financial Modeling Prep (FMP) by obtaining an API. The API is featured within the Python file. To access the various financial statements, you would need to import pandas and requests to be able to pull the balance sheet, income statement, stock data, and cash flow statement. https://site.financialmodelingprep.com/
 
 ## Business Problem
 For this project, we want to see what could be the result of the company losing money to the point of large scale layoffs. We will take a look at the financial statements to see what can be improved. This data does not specific segments of revenue or expenses so we will speculate as to what those will be.
