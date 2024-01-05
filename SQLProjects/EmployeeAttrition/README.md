@@ -1,4 +1,4 @@
-# Employee Attrition Project (SQL and PowerBI)
+# Employee Attrition Project with SQL and PowerBI
 
 ## Description
 Analyzing employee attrition data for HR from Kaggle dataset to determine how to better retain employees using SQL and visualized results using PowerBI
