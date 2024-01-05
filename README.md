@@ -12,4 +12,4 @@ Below are the projects in my portfolio with links to the repository:
    * [Employee Attrition (w/ PowerBI Visualization): (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](SQLProjects/EmployeeAttrition) (Beginner Project)
 
 3. __Excel Projects__:
-   * [Disney Financial Analysis Project using Python and Excel: (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](https://github.com/MalcolmQSmith/DisneyFinancialAnalysis) (Intermediate Project) 
+   * [Disney Financial Analysis Project using Python and Excel: (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](ExcelProjects/DisneyFinancialAnalysis) (Intermediate Project) 
