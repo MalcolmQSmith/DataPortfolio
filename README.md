@@ -9,7 +9,7 @@ Below are the projects in my portfolio with links to the repository:
    * [Vending Machine Sales: EDA, Data Cleaning, and Data Visulaization](PythonProjects/VendingMachineSales) (Beginner Project)
 
 2. __SQL Projects__:
-   * [Employee Attrition (w/ PowerBI Visualization): (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](https://github.com/MalcolmQSmith/EmployeeAttrition) (Beginner Project)
+   * [Employee Attrition (w/ PowerBI Visualization): (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](SQLProjects/EmployeeAttrition) (Beginner Project)
 
 3. __Excel Projects__:
    * [Disney Financial Analysis Project using Python and Excel: (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](https://github.com/MalcolmQSmith/DisneyFinancialAnalysis) (Intermediate Project) 
