@@ -1,9 +1,15 @@
 # Data Portfolio
 
 # About Me
-My name is Malcolm Smith and welcome to my portfolio! 
+My name is Malcolm Smith and welcome to my portfolio!
+
+
+
 
 I am new to the data science field, with a background in finance and analytics after graduating from Norfolk State University with a degree in Business Finance. This degree included extensive study of statistics, calculus, information systems, and public speaking with your findings with data reporting, which relates to what is done in the daily task of a Data Analyst and Data Scientist.
+
+
+
 
 This portfolio features several projects that shows the skillsets necessary to help a company achieve reach their goals with specific actions by helping them simply understand complex data based on my interests that solve a key problem within that domain.
 
