@@ -4,8 +4,8 @@ Each project shows different aspects needed to analyze data in Python:
 
   * Exploratory Data Anaylsis and Data Cleaning:
     
-      * [Vending Machine Sales (Plottted using Matplotlib)](PythonProjects/VendingMachineSales)
-      * [Data Science Salaries (Plotted using Tableau] (In Progress)
+      * [Vending Machine Sales (Plotted using Matplotlib)](PythonProjects/VendingMachineSales)
+      * [Los Angeles Dodgers Player Stats Analysis (2022-2023) (Tableau for data visualization)] (In Progress)
 
   * Machine Learning:
       * [Consumer Price Index Prediction (Using Xgboost)] (In Progress)
