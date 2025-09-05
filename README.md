@@ -1,6 +1,6 @@
 # Data Portfolio
 
-# About Me
+# About Me:
 My name is Malcolm Smith and welcome to my portfolio!
 
 
@@ -14,10 +14,18 @@ I have worked as a data analyst within the financial space for the last three ye
 
 This portfolio features several projects that shows the skillsets necessary to help a company achieve reach their goals with specific actions by helping them simply understand complex data based on my interests that solve a key problem within that domain.
 
-*Tech Stack:** Python • SQL • Tableau • Power BI • Pandas • NumPy • Matplotlib
+# Tech Stack:
+Python • SQL • Tableau • Power BI • Pandas • NumPy • Matplotlib
 
-# Index
-Below are the projects in my portfolio with links to the repository:
+
+# Project Categories:
+
+| Category            | Projects                    | Description                                               |
+|--------------------|-------------------------------|-----------------------------------------------------------|
+| ETL & Data Wrangling | Disney Financial ETL         | API extraction, cleaning with Python, data load to SQL    |
+| Dashboards & BI    | Employee Attrition PowerBI     | SQL-backed dashboards with KPIs and visual filtering       |
+
+# Featured Projects:
 1. __Python Projects__:
    * [Vending Machine Sales: EDA, Data Cleaning, and Data Visulaization](PythonProjects/VendingMachineSales) (Beginner Project)
 
