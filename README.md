@@ -1,36 +1,25 @@
 # Data Portfolio
 
 # About Me:
-My name is Malcolm Smith and welcome to my portfolio!
 
+Data Analyst with a decade of experience specializing in finance and business operations. Proficient in SQL, Python, Excel, Tableau and Power
+BI for cleaning, transforming, and analyzing large datasets to drive business decisions that impact multiple functions within an organization. 
 
-
-
-
-
-
-I have worked as a data analyst within the financial space for the last three years, with almost a decade of overall experience in finance and analytics after graduating from Norfolk State University with a degree in Business Finance. This degree included extensive study of statistics, information systems, and public speaking with your findings with data reporting, which relates to what is done in the daily task of a Data Analyst and Data Scientist.
-
-
+# What is in this Portfolio?
 This portfolio features several projects that shows the skillsets necessary to help a company achieve reach their goals with specific actions by helping them simply understand complex data based on my interests that solve a key problem within that domain.
 
-# Tech Stack:
+# Skills and Tools:
 Python • SQL • Tableau • Power BI • Pandas • NumPy • Matplotlib
 
 
-# Project Categories:
+# Project Highlights:
 
-| Category            | Projects                    | Description                                               |
-|--------------------|-------------------------------|-----------------------------------------------------------|
-| ETL & Data Wrangling | Disney Financial ETL         | API extraction, cleaning with Python, data load to SQL    |
-| Dashboards & BI    | Employee Attrition PowerBI     | SQL-backed dashboards with KPIs and visual filtering       |
+| Tools            | Projects                    | Domain                                              | Description                                               | Business Problem 
+|------------------|-----------------------------|-----------------------------------------------------|-----------------------------------------------------------|------------------
+| Python, Excel    | Disney 3 year Financial Track(ExcelProjects/DisneyFinancialAnalysis)| Finance                                           | API extraction in Python, data cleaning and load to Excel | Highlight financials to see where to improve 
+| SQL, PowerBI     | Employee Attrition(SQLProjects/EmployeeAttrition)      | HR                                                  | SQL-backed dashboard with KPIs and visual filtering       | See who is leaving the company for C-Suite
+| Python           | Vending Machine Sales(PythonProjects/VendingMachineSales)      | Sales                                                | API extraction, cleaning and visualization in Python      | How to increase vending machine sales 
 
-# Featured Projects:
-1. __Python Projects__:
-   * [Vending Machine Sales: EDA, Data Cleaning, and Data Visulaization](PythonProjects/VendingMachineSales) (Beginner Project)
-
-2. __SQL Projects__:
-   * [Employee Attrition (w/ PowerBI Visualization): (Stored Procedures, Exploratory Analysis, Data Cleaning, Joins, KPIs, Dashboards)](SQLProjects/EmployeeAttrition) (Beginner Project)
-
-3. __Excel Projects__:
-   * [Disney Financial Analysis Project using Python and Excel: (API, Pandas, Requests, Exploratory Analysis, Data Cleaning, Dashboards)](ExcelProjects/DisneyFinancialAnalysis) (Intermediate Project) 
+# Contact:
+Email: malcolmquincy1@gmail.com (mailto:malcolmquincy1@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+LinkedIn (https://www.linkedin.com/in/malcolmqsmith/)
