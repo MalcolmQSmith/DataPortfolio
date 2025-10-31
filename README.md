@@ -9,7 +9,7 @@ BI for cleaning, transforming, and analyzing large datasets to drive business de
 This portfolio features several projects that shows the skillsets necessary to help a company achieve reach their goals with specific actions by helping them simply understand complex data based on my interests that solve a key problem within that domain.
 
 # Skills and Tools:
-Python • SQL • Tableau • Power BI • Pandas • NumPy • Matplotlib
+Python • SQL • Tableau • Power BI • Pandas • NumPy • Matplotlib • Cross‐functional stakeholder work and collaboration • ETL • ELT
 
 
 # Project Highlights:
