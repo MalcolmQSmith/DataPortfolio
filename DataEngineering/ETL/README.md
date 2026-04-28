@@ -32,6 +32,7 @@ This pipeline solves that problem by:
 * ✅ Config-driven design for multiple tables
 * ✅ Secure database connection via environment variables
 * ✅ Idempotent execution (safe to run repeatedly)
+* ✅ Cron job that runs three times per month
 
 ---
 
@@ -198,13 +199,6 @@ This pipeline pattern is commonly used in:
 
 ---
 
-## 🔄 Example Use Case
-
-| Scenario                     | Solution                                    |
-| ---------------------------- | ------------------------------------------- |
-| New accounts added to source | Automatically inserted into hierarchy table |
-| Script runs multiple times   | No duplicate records created                |
-| Additional tables needed     | Add new config entry                        |
 
 ---
 
@@ -212,8 +206,8 @@ This pipeline pattern is commonly used in:
 
 **Before:**
 
-* Manual checks for missing records
-* Risk of duplicate inserts
+* The FP&A team only found new accounts while working on their reporting and had to update hierarchy structure during important reporting deadlines
+* Manually updating accourn records in excel, then updating in SQL
 * Inefficient full reloads
 
 **After:**
@@ -223,13 +217,6 @@ This pipeline pattern is commonly used in:
 * Scalable design for multiple datasets
 
 ---
-
-## 🔮 Future Improvements
-
-* Add logging and monitoring
-* Integrate with scheduling tools (Airflow / cron)
-* Expand to full transformation pipelines
-* Add unit tests for validation
 
 
 
