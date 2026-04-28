@@ -2,11 +2,11 @@
 
 # About Me:
 
-Data Analyst with a decade of experience specializing in finance and business operations. Proficient in SQL, Python, Excel, Tableau and Power
-BI for cleaning, transforming, and analyzing large datasets to drive business decisions that impact multiple functions within an organization. 
+Data analyst and developer with a decade of experience specializing in finance and business operations. Proficient in SQL, Python, Excel, and Power
+BI for cleaning, transforming, and analyzing large datasets to drive business decisions that impact multiple functions within an organization. Also proficient in creating ETL pipelines and automated reporting via Python
 
 # What is in this Portfolio?
-This portfolio features several projects that shows the skillsets necessary to help a company achieve reach their goals with specific actions by helping them simply understand complex data based on my interests that solve a key problem within that domain.
+This portfolio features several projects that shows the skillsets necessary to help a company achieve reach their goals with specific actions by helping them simply understand complex data based on my interests that solve a key problem within that domain from analysis and to ETL, to dashboarding and automation
 
 # Skills and Tools:
 Python • SQL • Tableau • Power BI • Pandas • NumPy • Matplotlib • Cross‐functional stakeholder work and collaboration • ETL • ELT
