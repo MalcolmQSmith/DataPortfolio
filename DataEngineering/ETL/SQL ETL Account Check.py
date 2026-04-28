@@ -1,8 +1,10 @@
+## Import needed libraries
 import os
 import psycopg2
 from psycopg2 import sql
 from dotenv import load_dotenv
 
+## Utlilies to configure Database credientials and database access
 load_dotenv()
 
 DB_CONFIG = {
@@ -18,10 +20,10 @@ SOURCE_TABLE = "source_actuals"
 
 TABLE_CONFIGS = [
     {
-        "name": "GL Accounts",
-        "target_table": "gl_account_hierarchy",
+        "name": "Accounts",
+        "target_table": "account_hierarchy",
         "source_key": "account_key",
-        "primary_key": "gl_account"
+        "primary_key": "account"
     },
     {
         "name": "Cost Centers",
@@ -31,7 +33,7 @@ TABLE_CONFIGS = [
     }
 ]
 
-
+## Function that validates the both accounts between the source and target tables
 def insert_new_records(cursor, cfg):
     query = sql.SQL("""
         INSERT INTO {schema}.{target} ({pk})
@@ -51,7 +53,7 @@ def insert_new_records(cursor, cfg):
 
     cursor.execute(query)
 
-
+## Connects to query to run script
 def run():
     with psycopg2.connect(**DB_CONFIG) as conn:
         with conn.cursor() as cursor:
